@@ -130,15 +130,6 @@ and Measurement (ESEM), 2026.*
 
 ---
 
-## Education
-
-- **Ph.D. in Computer Science** — Colorado State University
-  (2024–Present)
-- **M.Sc. in Software Engineering** —
-  Imam Khomeini International University
-- **B.Sc. in Software Engineering** — Tabari University
-
----
 
 ## Professional Interests
 
