@@ -155,7 +155,4 @@ at the intersection of:
 
 ## Connect with Me
 
-- LinkedIn: [LinkedIn Profile](YOUR_LINKEDIN_URL)
-- Google Scholar: [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL)
-- Personal Website: [Portfolio](YOUR_WEBSITE_URL)
-- Email: YOUR_PROFESSIONAL_EMAIL
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ali-bigdeli-10794a8b/)
